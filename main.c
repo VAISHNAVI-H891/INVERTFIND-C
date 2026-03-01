@@ -1,8 +1,4 @@
-/*Name : Vaishnavi R Hujaratti
-User Id : 25017_269
-Project name : Inverted Search
-Date : 22/11/25
-*/
+
 #include "inverted.h"
 
 /*
@@ -122,3 +118,4 @@ int main(int argc, char *argv[])
 
     return 0;
 }
+

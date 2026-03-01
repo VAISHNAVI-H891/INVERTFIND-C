@@ -1,4 +1,4 @@
-# 🔎 Inverted Search Engine in C
+# 🔎 Inverted Find in C
 
 A high-performance **Inverted Search Engine** built using C that enables fast and efficient text retrieval across multiple files. This project implements **Hashing** and **Linked List–based Inverted Indexing**, a core concept used in modern search engines.
 
